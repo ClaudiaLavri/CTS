@@ -11,6 +11,7 @@ public class SqlInsertOperation implements Operation {
     public static final String INSERT_EMPLOYEE = "INSERT INTO employees VALUES(1, 'Popescu Ion', 'Bucharest', 4000)";
     public static final String INSERT_WITH_PARAMS = "INSERT INTO employees VALUES (?,?,?,?)";
 
+
     @Override
     public void operation(Connection connection) {
         String sqlInsert = INSERT_EMPLOYEE;
