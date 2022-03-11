@@ -1,4 +1,4 @@
-package ro.ase.acs.nosql;
+package src.ro.ase.acs.nosql;
 
 import org.bson.Document;
 

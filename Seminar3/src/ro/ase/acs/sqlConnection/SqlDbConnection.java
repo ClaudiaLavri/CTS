@@ -1,6 +1,6 @@
-package ro.ase.acs.sqlConnection;
+package src.ro.ase.acs.sqlConnection;
 
-import ro.ase.acs.connection.DbConnection;
+import src.ro.ase.acs.connection.DbConnection;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

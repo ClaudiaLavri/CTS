@@ -1,6 +1,6 @@
-package ro.ase.acs.sqlCrud;
+package src.ro.ase.acs.sqlCrud;
 
-import ro.ase.acs.operations.Operation;
+import src.ro.ase.acs.operations.Operation;
 
 import java.sql.Connection;
 import java.sql.SQLException;

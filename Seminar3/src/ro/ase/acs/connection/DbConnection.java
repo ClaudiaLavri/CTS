@@ -1,4 +1,4 @@
-package ro.ase.acs.connection;
+package src.ro.ase.acs.connection;
 
 public interface DbConnection {
     public void connect();
